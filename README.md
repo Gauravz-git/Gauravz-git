@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Gauravz-git
 - 👀 I’m interested in ...
-- Java, Springboot, Hibernate, ActiveMQ, 
+- FULL_STACK_DEVELOPMENT
 - 🌱 I’m currently learning ...
-- React.js , Javascript
-- 💞️ I’m looking to collaborate on ...
+- React.js 
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/gaurav-chaudhari223/
+- Gmail => gauravc0223@gmail.com
+- LinkedIn => https://www.linkedin.com/in/gaurav-chaudhari223/
+- Twitter => https://x.com/GauravC32953570
 
