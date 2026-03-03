@@ -21,12 +21,12 @@
 
 ### 🔹 Testing & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=java,selenium,git,postman,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,playwright,git,postman,mysql" />
 </p>
 
 ### 🔹 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=react,python" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
 </p>
 
 ---
