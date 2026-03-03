@@ -21,7 +21,7 @@
 
 ### 🔹 Testing & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=python,playwright,git,postman,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,postman,mysql" />
 </p>
 
 ### 🔹 Currently Learning
