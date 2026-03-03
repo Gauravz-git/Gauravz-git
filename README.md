@@ -2,7 +2,7 @@
 <h3 align="center">Software Test Engineer | Banking Domain | Python | Playwright | Jenkins(CI/CD)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automation+Test+Engineer;Banking+%26+Capital+Markets+Domain;Selenium+%7C+API+Testing+%7C+Java;Future+Product+Based+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Test+Engineer;Banking+%26+Domain;Playwright+%7C+API+Testing+%7C+Python;Future+Product+Based+Engineer" />
 </p>
 
 ---
